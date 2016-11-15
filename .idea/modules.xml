@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00-template/00-template.iml" filepath="$PROJECT_DIR$/00-template/00-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-from-scratch/01-from-scratch.iml" filepath="$PROJECT_DIR$/01-from-scratch/01-from-scratch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-reverse-polish-notation/02-reverse-polish-notation.iml" filepath="$PROJECT_DIR$/02-reverse-polish-notation/02-reverse-polish-notation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-vending-machine/03-vending-machine.iml" filepath="$PROJECT_DIR$/03-vending-machine/03-vending-machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-bowling-open-closed/04-bowling-open-closed.iml" filepath="$PROJECT_DIR$/04-bowling-open-closed/04-bowling-open-closed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-rpn2infix/05-rpn2infix.iml" filepath="$PROJECT_DIR$/05-rpn2infix/05-rpn2infix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-rock-paper-scissors/06-rock-paper-scissors.iml" filepath="$PROJECT_DIR$/06-rock-paper-scissors/06-rock-paper-scissors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-shopping-checkout/07-shopping-checkout.iml" filepath="$PROJECT_DIR$/07-shopping-checkout/07-shopping-checkout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-shopping-checkout-flux/08-shopping-checkout-flux.iml" filepath="$PROJECT_DIR$/08-shopping-checkout-flux/08-shopping-checkout-flux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-coin-recognition/09-coin-recognition.iml" filepath="$PROJECT_DIR$/09-coin-recognition/09-coin-recognition.iml" />
+    </modules>
+  </component>
+</project>

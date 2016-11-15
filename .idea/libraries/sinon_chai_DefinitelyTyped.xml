@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sinon-chai-DefinitelyTyped" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/autocomplete/sinon-chai/sinon-chai.d.ts" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/autocomplete/sinon-chai/sinon-chai.d.ts" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

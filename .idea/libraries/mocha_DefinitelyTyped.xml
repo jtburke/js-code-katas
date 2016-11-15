@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mocha-DefinitelyTyped" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/autocomplete/mocha/mocha.d.ts" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/autocomplete/mocha/mocha.d.ts" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

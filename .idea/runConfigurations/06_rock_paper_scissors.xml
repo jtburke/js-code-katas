@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="06-rock-paper-scissors" type="mocha-javascript-test-runner" factoryName="Mocha" singleton="false">
+    <node-interpreter />
+    <node-options />
+    <working-directory>$PROJECT_DIR$/06-rock-paper-scissors</working-directory>
+    <pass-parent-env>true</pass-parent-env>
+    <envs />
+    <ui>BDD</ui>
+    <extra-mocha-options>&quot;test/**/*Test.js&quot; --compilers js:babel/register --require &quot;test/helpers/helper.js&quot;</extra-mocha-options>
+    <test-kind>DIRECTORY</test-kind>
+    <test-directory>$PROJECT_DIR$/06-rock-paper-scissors/test</test-directory>
+    <recursive>true</recursive>
+    <RunnerSettings RunnerId="RunnerForMochaJavaScript" />
+    <ConfigurationWrapper RunnerId="RunnerForMochaJavaScript" />
+    <method />
+  </configuration>
+</component>
